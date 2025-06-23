@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "769448200311",
+    "project_id": "assinmentlogin-ff0dc",
+    "storage_bucket": "assinmentlogin-ff0dc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769448200311:android:226697ae27165c74371e72",
+        "android_client_info": {
+          "package_name": "com.example.assinment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3S9l4ORce0_VtS-0J8nnWBtpLN0SahqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
